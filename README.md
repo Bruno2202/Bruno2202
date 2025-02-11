@@ -7,7 +7,7 @@ Hello, my name is **Bruno** and I am a **Fullstack web** and **mobile developer*
 * **Backend:** Node.js, Fastify, Express
 * **Languages:** JavaScript, TypeScript
 * **DBs:** PostgreSQL, MySQL, SQLite, Firebase
-* **Others:** API, Git.”
+* **Others:** API, Git
 
 ## 📫 How to find me:
 - LinkedIn: [linkedin.com/in/bruno-terribile](https://www.linkedin.com/in/bruno-terribile)
