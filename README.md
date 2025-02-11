@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to my Github! 👋
 
-<!--
-**Bruno2202/Bruno2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is **Bruno** and I am a **Fullstack web** and **mobile developer**.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I use:
+* **Frontend:** HTML, CSS, React, React Native, Tailwind, Vite
+* **Backend:** Node.js, Fastify, Express
+* **Languages:** JavaScript, TypeScript
+* **DBs:** PostgreSQL, MySQL, SQLite, Firebase
+* **Others:** API, Git.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to find me:
+- LinkedIn: [linkedin.com/in/bruno-terribile](https://www.linkedin.com/in/bruno-terribile)
+- E-mail: [brunoterribile2005@gmail.com](mailto:brunoterribile2005@gmail.com)
+
+---
+
+You're welcome to explore my repositories! 🗂
