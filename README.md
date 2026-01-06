@@ -7,9 +7,9 @@
 <h2>🚀 Technologies I use:</h2>
 
 * **Frontend:** HTML, CSS, React, React Native, Tailwind, Vite
-* **Backend:** Node.js, Fastify, Express
-* **Languages:** JavaScript, TypeScript
-* **DBs:** PostgreSQL, MySQL, SQLite, Firebase
+* **Backend:** Spring Boot, Node.js, NestJS, Fastify, Express
+* **Languages:** JavaScript, TypeScript, Java, Python
+* **DBs:** PostgreSQL, MySQL, MongoDB, SQLite, Firebase
 * **Others:** API, Git
 
 <h2>📊 Github stats:</h2>
