@@ -1,28 +1,56 @@
-<h1 align="center"> Hello, my name is Bruno! 👋</h1>
+<div align="center">
+  <h1>Olá, eu sou o Bruno! 👋</h1>
+  <p><em>Fullstack Web & Mobile Developer</em></p>
 
-<p align="center"><em>Fullstack web and mobile developer.</em></p>
+  [![Link do LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-terribile)
+</div>
 
 ---
 
-<h2>🚀 Technologies I use:</h2>
+### 🚀 Sobre mim
 
-* **Frontend:** HTML, CSS, React, React Native, Tailwind, Vite
-* **Backend:** Spring Boot, Node.js, NestJS, Fastify, Express
-* **Languages:** JavaScript, TypeScript, Java, Python
-* **DBs:** PostgreSQL, MySQL, MongoDB, SQLite, Firebase
-* **Others:** API, Git
+Sou um desenvolvedor apaixonado por transformar ideias em código, com foco em criar aplicações escaláveis e performáticas. Transito com facilidade entre o **Frontend dinâmico** e **Backends robustos**.
 
-<h2>📊 Github stats:</h2>
+---
 
+### 🛠️ Tecnologias & Ferramentas
+
+#### **Linguagens & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+#### **Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+#### **Backend & Database**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+### 📊 Atividade e Métricas
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno2202&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+### 📈 Contribuições Mensais
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno2202&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno2202&theme=dracula&area=true&hide_border=true" width="100%" />
 </p>
 
-
-## 📫 How to find me:
-- LinkedIn: [linkedin.com/in/bruno-terribile](https://www.linkedin.com/in/bruno-terribile)
-- E-mail: [brunoterribile2005@gmail.com](mailto:brunoterribile2005@gmail.com)
-
 ---
 
-<p align="center"><em>You're welcome to explore my repositories! 🗂</em></p>
+<div align="center">
+  <p><em>Fique à vontade para explorar meus repositórios! 🗂️</em></p>
+</div>
