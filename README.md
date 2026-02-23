@@ -38,16 +38,24 @@ Sou um desenvolvedor apaixonado por transformar ideias em código, com foco em c
 
 ### 📊 Atividade e Métricas
 
-<div align="center">
-  <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno2202&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" />
-</div>
-
----
-
-### 📈 Contribuições Mensais
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno2202&theme=dracula&area=true&hide_border=true" width="100%" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno2202&layout=compact&theme=dracula&hide_border=false" 
+        alt="Linguagens mais usadas" 
+        height="180"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno2202&theme=dracula&area=true&hide_border=true" 
+        alt="Gráfico de Contribuições"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
