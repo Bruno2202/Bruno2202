@@ -47,14 +47,14 @@ Sou um desenvolvedor apaixonado por transformar ideias em código, com foco em c
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno2202&layout=compact&theme=dracula&hide_border=false" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno2202&layout=compact&theme=dracula&hide_border=false&v=1" 
         alt="Linguagens mais usadas" 
         height="180"
       />
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno2202&theme=dracula&area=true&hide_border=true" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Bruno2202&theme=dracula&area=true&hide_border=true&v=1" 
         alt="Gráfico de Contribuições"
         height="180"
       />
