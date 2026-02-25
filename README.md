@@ -47,7 +47,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código, com foco em c
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno2202&layout=compact&theme=dracula&hide_border=false&v=1" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bruno2202&layout=compact&theme=dracula&hide_border=false&v=1"
         alt="Linguagens mais usadas" 
         height="180"
       />
